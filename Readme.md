@@ -29,7 +29,13 @@ nodejs是单线程，可以使用c++扩展模块，加入多线程的功能
 [C++ Addons nodejs.org](https://nodejs.org/docs/latest-v6.x/api/addons.html )
 [扩展模块的开发以及应用场景]( https://zhuanlan.zhihu.com/p/35238127)
 
+### CommonJS AMD CMD
+
+### 
+
+
 ### 参考
 
 [Module 模块机制](https://www.bookstack.cn/read/Nodejs-Roadmap/nodejs-module.md)
 [结合源码分析 Node.js 模块加载与运行原理](https://zhuanlan.zhihu.com/p/35238127)
+
